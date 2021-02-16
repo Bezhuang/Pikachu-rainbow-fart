@@ -41,9 +41,9 @@
 
 ## 界面预览
 
-<img src="https://cdn.jsdelivr.net/gh/Bezhuang/Pikachu-rainbow-fart/preview1.png">
+<img src="https://raw.githubusercontent.com/Bezhuang/Pikachu-rainbow-fart/main/preview1.png">
 
-<img src="https://cdn.jsdelivr.net/gh/Bezhuang/Pikachu-rainbow-fart/preview2.png">
+<img src="https://raw.githubusercontent.com/Bezhuang/Pikachu-rainbow-fart/main/preview2.png">
 
 ## 补充申明
 
