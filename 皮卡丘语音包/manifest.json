@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "display-name": "皮卡丘彩虹屁语音包",
     "description": "一个基于VSCode Rainbow Fart的皮卡丘语音包",
-    "avatar": "pikachu.jpg",
+    "avatar": "/pikachu.jpg",
     "author": "Bezhuang",
 	"gender": "male",
     "languages": [
@@ -14,7 +14,7 @@
     ],
     "contributes": [
         {
-        	"keywords": [";",
+        	"keywords": [";","{","}","(",")",",","#include","#pragma","/","#",
 			"and","abstract","arguments","auto","asm","as","assert",
 			"break","bool","boolean","byte",
 			"case","catch","char","const","const_cast","class","continue",
