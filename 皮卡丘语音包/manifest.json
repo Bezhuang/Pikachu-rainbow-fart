@@ -1,8 +1,8 @@
 {
     "name": "pikachu-rainbow-fart",
     "version": "1.0.0",
-    "display-name": "皮卡丘语音包",
-    "description": "皮卡 ~ 皮卡 ~ 皮 ~ 皮卡丘 ~",
+    "display-name": "皮卡丘彩虹屁语音包",
+    "description": "一个基于VSCode Rainbow Fart的皮卡丘语音包",
     "avatar": "/pikachu.jpg",
     "author": "Bezhuang",
 	"gender": "male",
@@ -10,11 +10,12 @@
         "c",
         "cpp",
 		"js",
-		"python"
+		"python",
+		"java"
     ],
     "contributes": [
         {
-        	"keywords": [";","{","}","(",")",",","/","#","[","]","+","=","*",
+        	"keywords": [";","{","}","(",")",",","#","[","]","/",
 			"and","abstract","arguments","auto","asm","as","assert",
 			"break","bool","boolean","byte",
 			"case","catch","char","const","const_cast","class","continue",
@@ -29,7 +30,7 @@
 			"operator","or",
 			"private","protected","public","package","pass",
 			"register","reinterpret_cast","return","restrict","raise",
-			"short","signed","sizeof","static","static_cast","struct","switch","super","synchronized",
+			"short","signed","sizeof","static","static_cast","struct","switch","super","synchronized","strictfp",
 			"template","this","throw","throws","true","True","try","typedef","typeof","typeid","typename","transient",
 			"unsigned","union","using",
 			"virtual","void","volatile","var",
